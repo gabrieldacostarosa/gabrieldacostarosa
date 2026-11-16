@@ -20,7 +20,7 @@
 
 - **[Grimoryo](https://github.com/gabrieldacostarosa/grimoryo)** · auto-battler de magos para celular. 99 testes, combate determinístico, documentação no formato Diátaxis. [Jogar](https://grimoryo.netlify.app)
 - **[EnergCalc: documentação](https://github.com/gabrieldacostarosa/energcalc-docs)** · documentação bilíngue com diagramas e um build que falha se PT e EN divergirem.
-- **Portfólio** · estudos de caso com problema, decisões, custo e resultado. _(adicionar o link quando o domínio existir)_
+- **[Portfólio](https://github.com/gabrieldacostarosa/portfolio)** · código-fonte do meu portfólio bilíngue: gerador estático em Node.js, sem dependências, com estudos de caso (problema, decisões, custo e resultado).
 
 ## Tecnologias · Stack
 

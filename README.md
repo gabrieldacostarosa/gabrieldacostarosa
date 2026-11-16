@@ -1,7 +1,7 @@
 # Gabriel da Costa
 
-**UX writing, documentação, produto e IA aplicada.** Eu transformo sistemas complexos em coisas que as pessoas entendem e usam sozinhas.
-**UX writing, documentation, product and applied AI.** I turn complex systems into things people understand and use on their own.
+**Technical Writer de produtos de cibersegurança e APIs, com UX writing, produto e IA aplicada.** Há quase 2 anos documentando, todos os dias e em inglês e português, o que é complexo para que as pessoas entendam e usem sozinhas.
+**Technical Writer for cybersecurity and API products, with UX writing, product and applied AI.** Almost 2 years documenting what is complex, every day, in English and Portuguese, so people can understand it and use it on their own.
 
 📍 Florianópolis, Brasil · remoto · PT / EN
 
@@ -20,7 +20,7 @@
 
 - **[Grimoryo](https://github.com/gabrieldacostarosa/grimoryo)** · auto-battler de magos para celular. 99 testes, combate determinístico, documentação no formato Diátaxis. [Jogar](https://grimoryo.netlify.app)
 - **[EnergCalc: documentação](https://github.com/gabrieldacostarosa/energcalc-docs)** · documentação bilíngue com diagramas e um build que falha se PT e EN divergirem.
-- **[Portfólio](https://github.com/gabrieldacostarosa/portfolio)** · código-fonte do meu portfólio bilíngue: gerador estático em Node.js, sem dependências, com estudos de caso (problema, decisões, custo e resultado).
+- **Portfólio** · estudos de caso com problema, decisões, custo e resultado. _(adicionar o link quando o domínio existir)_
 
 ## Tecnologias · Stack
 
